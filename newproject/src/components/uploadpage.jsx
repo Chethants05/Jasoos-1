@@ -51,7 +51,7 @@ const TextArea = styled.textarea`
   resize: vertical;
   white-space:pre-wrap;
 `;
-
+  
 const Button = styled.button`
   padding: 12px 20px;
   font-size: 1rem;
